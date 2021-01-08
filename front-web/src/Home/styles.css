@@ -1,3 +1,4 @@
+  
 .home-container {
     padding-top: 100px;
     height: calc(100vh - 254px);
@@ -31,7 +32,7 @@
   }
   
   .home-btn-order {
-    background-color:  #DA5C5C;
+    background-color: var(--primary-color);
     border-radius: 10px;
     height: 70px;
     width: 235px;
@@ -46,7 +47,7 @@
   }
   
   .home-btn-order:hover {
-    background-color: #DA5C5C;
+    background-color: var(--primary-hover-color);
     transform: scale(1.01);
   }
   
