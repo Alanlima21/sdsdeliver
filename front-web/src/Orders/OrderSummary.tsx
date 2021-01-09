@@ -1,5 +1,5 @@
-import Footer from "../Footer";
 import { formatPrice } from "./helpers";
+
 type Props ={
     amount : number;
     totalPrice : number;
