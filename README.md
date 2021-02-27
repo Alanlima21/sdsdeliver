@@ -51,7 +51,7 @@ Pré-requisitos: npm / yarn
 
 ```bash
 # clonar repositório
-git clone https://github.com/Alanlima21/dspesquisa.git
+git clone https://github.com/Alanlima21/sdsdeliver.git
 
 # entrar na pasta do projeto front end web
 cd front-web
